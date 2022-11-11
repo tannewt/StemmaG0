@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Adafruit BH1750")(type "KiCad")(uri "$(KIPRJMOD)/Adafruit BH1750.pretty")(options "")(descr ""))
+  (lib (name "JLCPCB")(type "KiCad")(uri "${KIPRJMOD}/JLCPCB.pretty")(options "")(descr ""))
+  (lib (name "chickadee")(type "KiCad")(uri "${KIPRJMOD}/kicad-libs/footprints/chickadee.pretty")(options "")(descr ""))
+)

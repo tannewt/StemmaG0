@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Adafruit BH1750-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Adafruit BH1750-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "STM32G0xxFx")(type "KiCad")(uri "${KIPRJMOD}/STM32G0xxFx.kicad_sym")(options "")(descr ""))
+)
